@@ -7,7 +7,7 @@ import (
 
 func PrintHelloWorld()  {
 	PrintBegining()
-	fmt.Println("test")
+	fmt.Println("mohammadjavad dahane maro gayidi :(")
 }
 
 func PrintBegining() {
